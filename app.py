@@ -1,6 +1,7 @@
 # Kyle Billones BSCS 3B - AI 
 # This is a simple Streamlit app that uses the Google Generative AI API to create an event plan.
 
+#code
 #Import Google API Key 
 from dotenv import load_dotenv
 load_dotenv()
